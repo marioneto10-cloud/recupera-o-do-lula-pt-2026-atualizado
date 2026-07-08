@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presidência de Lula - Portal Informativo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Portal Presidência de Lula</h1>
+        <p>Acompanhe análises, registros e os principais acontecimentos dos mandatos.</p>
+    </header>
+    <main>
+        <article>
+            <img src="imagem-blog.png"
+                alt="Logotipo conceitual de um governo democrático: um brasão estilizado do Brasil brilhante, cercado por conexões institucionais e focos em políticas sociais e desenvolvimento econômico.">
+            <div>
+                <h2>Bem-vindo ao Portal Informativo</h2>
+                <p class="artigo-autor">Por: Marcelo Paludetto</p>
+                <p>Espaço dedicado a centralizar dados históricos, notícias recentes e o andamento das agendas oficiais e econômicas do governo de Luiz Inácio Lula da Silva.</p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-dados.jpg"
+                alt="Fotografia em alta resolução do Presidente Lula durante discurso em plenário oficial.">
+            <div>
+                <h2>Onde encontrar o acervo oficial de fotos</h2>
+                <p class="artigo-autor">Por: Marcelo Paludetto</p>
+                <p>Todas as imagens oficiais do presidente em viagens, discursos e agendas governamentais são mantidas publicamente em alta resolução e livre acesso para o público e imprensa.</p>
+
+                <p class="artigo-fonte">Fonte: <a
+                        href="https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/luiz-inacio-lula-da-silva/galeria-de-fotos/acervo-de-fotos" target="_blank">Biblioteca da Presidência</a>
+                </p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-mouse.jpg"
+                alt="Ilustração representando os Três Poderes da República em Brasília: Executivo, Legislativo e Judiciário sob o Palácio do Planalto.">
+            <div>
+                <h2>Relação com o Congresso e liberação de emendas</h2>
+                <p class="artigo-autor">Por: Giulliana Cestari</p>
+                <p>Em um cenário marcado por forte pressão do Poder Legislativo, a gestão federal desembolsou volumes recordes de emendas parlamentares em busca de governabilidade e aprovação de reformas essenciais.</p>
+
+                <p class="artigo-fonte">Fonte: <a
+                        href="https://www1.folha.uol.com.br/poder/2026/07/lula-paga-recorde-de-emendas-antes-da-eleicao-mas-preve-ampliar-criticas-na-campanha.shtml" target="_blank">Folha de S.Paulo</a></p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-bluetooth.jpg"
+                alt="Gráfico de intenção de voto mostrando o equilíbrio das pesquisas eleitorais recentes no Brasil.">
+            <div>
+                <h2>Cenário Político e Pesquisas Recentes</h2>
+                <p class="artigo-autor">Por: Giulliana Cestari</p>
+                <p>As mais recentes pesquisas do Datafolha e do Instituto Ideia indicam um cenário competitivo, com destaque para a liderança e forte apelo do presidente frente ao eleitorado feminino na corrida eleitoral.</p>
+
+                <p class="artigo-fonte">Fonte: <a
+                        href="https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/08/lula-esta-em-posicao-fragil-de-reeleicao-avalia-mauricio-moura.ghtm" target="_blank">UOL Notícias</a>
+                </p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-bug.jpg"
+                alt="Planeta terra com foco na América Latina, destacando a liderança diplomática e econômica do Brasil no cenário global.">
+            <div>
+                <h2>Reconstrução da política externa (Lula 3.0)</h2>
+                <p class="artigo-autor">Por: Giulliana Cestari</p>
+                <p>A atual vertente da diplomacia brasileira foca no "retorno do Brasil ao mundo", com forte ativismo presidencial em cúpulas climáticas, reaproximação com blocos vizinhos e busca por protagonismo internacional.</p>
+
+                <p class="artigo-fonte">Fonte: <a
+                        href="https://www.scielo.br/j/rbpi/a/jZQmZbYhswzkmw87jyKfqsq/?format=html&lang=en" target="_blank">Revista Brasileira de Política Internacional</a></p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-webcam.jpg"
+                alt="Infográfico detalhado sobre os Objetivos de Desenvolvimento Sustentável (ODS) sendo implementados nas metas públicas brasileiras.">
+            <div>
+                <h2>Foco em Metas de Desenvolvimento Sustentável</h2>
+                <p class="artigo-autor">Por: Giulliana Cestari</p>
+                <p>O governo federal restabeleceu comissões nacionais para alinhar as políticas de combate à fome e transição energética aos Objetivos de Desenvolvimento Sustentável (ODS) pactuados com organismos internacionais.</p>
+
+                <p class="artigo-fonte">Fonte: <a href="https://www.gov.br/secretariageral/pt-br/cnods/RNV_Brasil/english/VNR_BRAZIL_FULL.pdf" target="_blank">Portal Gov.br</a></p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="imagem-computador.jpg"
+                alt="Ilustração da Floresta Amazônica protegida por tecnologias de monitoramento via satélite.">
+            <div>
+                <h2>Os desafios da Autoridade Climática</h2>
+                <p class="artigo-autor">Por: Felipe Gibertoni</p>
+                <p>Um dos maiores focos de debate na atual gestão tem sido conciliar o pragmatismo da política partidária e de coalizão no Congresso com a promessa de fortalecimento de uma Autoridade Climática severa para conter o desmatamento ilegal na Amazônia.</p>
+
+                <p class="artigo-fonte">Fonte: <a href="https://www.cambridge.org/core/journals/environmental-conservation/article/brazilian-president-lulas-climate-authority-challenge-pragmatism-versus-coalition-politics/BEA385BC81D45229CDEA5F6436860BF6" target="_blank">Cambridge University Press</a></p>
+
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <button class="btn-tema-escuro">🌓</button> 
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
